@@ -1,0 +1,2 @@
+print("noya")
+print("yotvata")
