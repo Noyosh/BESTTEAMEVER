@@ -1,2 +1,2 @@
 print("noya")
-print("elephant")
+print("lion")
